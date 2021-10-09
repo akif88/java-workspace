@@ -1,0 +1,5 @@
+F:\Integrity\samplefolder\a.txt fb1912eaf4fd2bdd7a8d15930a2e7fb6
+F:\Integrity\samplefolder\b.txt 0a1efbe9de3e08f8f2314d76665690e7
+F:\Integrity\samplefolder\c.txt 1f3a205945a2f10a559adb7773e7e44b
+F:\Integrity\samplefolder\subfolder\d.txt 6a3a4adfc214f9756220bab335fe0299
+##signature: uK1EXL4CZYGaKaCR6wvQVnr1a6097d4U3es7vw7vg7phknAn4/vd2mtYPWiSquOBmcQQqDmyI3drELxiiFZqQqli9ImcCGw9ZW6/FkkY7GODI2UtKMhH3vHUGw+WlXe5284rbeoNTS42sD0ggvoEW7whcxXQnxrFlW1BHHjoBQ4=
